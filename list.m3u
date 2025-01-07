@@ -18,17 +18,11 @@ http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 ,台视新闻 HD
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 ,中天娱乐
-http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 ,Discovery探索亞洲
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 ,凤凰卫视中文台
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-#EXTINF:-1 ,凤凰卫视资讯台
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-#EXTINF:-1 ,CCTV-1HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1hd
-#EXTINF:-1 ,CCTV-2HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2hd
-#EXTINF:-1 ,CCTV-3HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3hd
+#EXTINF:-1 ,CCTV-1综合
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1
+#EXTINF:-1 ,CCTV-2财经
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2
+#EXTINF:-1 ,CCTV-3综艺
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3
