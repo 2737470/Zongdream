@@ -10,7 +10,25 @@ https://streamer1.nexgen.bz/HISTORY/index.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 ,TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 ,寰宇新聞
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 ,中天新聞
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 ,LoveNature中文
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 ,台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 ,中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 ,Discovery探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 ,凤凰卫视中文台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+#EXTINF:-1 ,凤凰卫视资讯台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+#EXTINF:-1 ,CCTV-1HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1hd
+#EXTINF:-1 ,CCTV-2HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2hd
+#EXTINF:-1 ,CCTV-3HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3hd
