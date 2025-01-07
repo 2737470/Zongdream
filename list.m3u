@@ -1,0 +1,28 @@
+#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="Lifestyle",Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4K Travel TV (1080p)
+https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",History
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",翡翠台
+https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="Outdoor",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 ,凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,国家地理野生
+https://epg.pw/stream/936ec911ca3a23631c8e822081ca3fe8f0e1a93bac068f4db5eaa005b2fccba7.m3u8
+#EXTINF:-1 ,星空卫视
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1 ,TVBS新闻台
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 ,中天新聞
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 ,國家地理
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
