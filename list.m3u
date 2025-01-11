@@ -12,17 +12,3 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 ,Discovery探索亞洲
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",鳳凰中文
-https://pull-f5-spe.ixigua.com/yeslivetv.com/592947253-711982631/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",鳳凰資訊
-https://pull-f5-spe.ixigua.com/yeslivetv.com/303328069-581799927/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",無綫新聞台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/446133069-816601364/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",無綫財經·體育·資訊台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/944048695-106799677/index.m3u8
-#EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/fEUmRST.png" group-title="News",CTi News (中天新聞台)
-https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-#EXTINF:-1 tvg-id="CTiVariety.tw" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="General",CTi Variety (中天綜合台) (720p)
-http://23.237.10.66:16372
-#EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="News",TTV News (台视新聞台)
-https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
